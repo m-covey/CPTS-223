@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/covey/Documents/Visual Studio Code/C++ Projects/CPTS 223/MA0",
+      "program": "/Users/covey/Documents/Visual Studio Code/C++ Projects/CPTS 223/MA0/build/Debug/outDebug"
+    }
+  ]
+}
